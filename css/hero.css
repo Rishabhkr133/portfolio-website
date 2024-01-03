@@ -1,0 +1,26 @@
+#hero {
+    
+      background-size:cover;
+      background-position:right;
+      position: relative;
+      background-color: whitesmoke
+      
+      
+
+}
+
+
+
+#hero h1{
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+   
+    /*colour; transparent;*/
+
+}
+#hero .heroimage{
+   right: 500px;
+    
+}
+
